@@ -10,7 +10,6 @@ modules: file, gpio, mqtt, net, node, rtctime, sntp, tmr, uart, wifi.
 nodemcu-master-9-modules-2017-08-31-15-40-31-float.bin
 modules: file, gpio, http, mqtt, net, node, tmr, uart, wifi.
 
-
 nodemcu-master-14-modules-2017-12-03-14-54-36-float.bin
 modules: bit, file, gpio, http, mqtt, net, node, rtcfifo, rtcmem, rtctime, sntp, tmr, uart, wifi.
 
